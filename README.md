@@ -3,6 +3,7 @@ One-stop place for managing and running automation tools, code snippets, or util
 
 ### Replace the env variable accordingly ###
 
+```bash
 cat <<EOF >> ~/.zshrc
 ### Buddy Encryption ###
 export ENCRYPTION_PASSWORD="abcdefghijklmnopqrstuvwxyz"
